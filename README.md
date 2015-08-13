@@ -1,4 +1,4 @@
-A drop-in profiles system.
+A drop-in profiles system for Meteor.js
 
 @@TODO:
 
